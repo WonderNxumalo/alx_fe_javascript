@@ -1,0 +1,1 @@
+Random Quote Generator Exercise. Unforgivingly hard.
